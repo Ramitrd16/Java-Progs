@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÎÆğüÿÿÿÿ8°ü†Ûù1J$9c3ae48c-d6fd-4bd1-804e-2b801c760356
+m	java:S106"+Replace this use of System.out by a logger.(„¨õå8‡ı†Ûù1J$2e0241bd-c6b2-4390-a947-fa8f8d7d17f8
+~	java:S125"<This block of commented-out lines of code should be removed.(áÆŸª8¦™Ûù1J$3a93a9bb-9fc4-4386-bbaf-a937328e4bec
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8«™Ûù1J$73833edc-37d4-4835-865f-e2b34dbf9ae5
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8«™Ûù1J$113305d5-fc3f-41ed-9bf3-137c275e0360
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¬™Ûù1J$609c7c27-2a26-4890-a44a-596816184293

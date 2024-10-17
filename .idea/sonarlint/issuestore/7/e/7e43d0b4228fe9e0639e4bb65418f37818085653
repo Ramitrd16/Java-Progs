@@ -1,0 +1,16 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΚΊΈ»J$8d6a1bbd-dadc-43f1-835d-22d80336bee3
+
+java:S3008"RRename this field "SYMBOLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τ²¶J$30a739bf-0b36-4bf8-ac46-d04e0b0f3a7b
+
+java:S3008	"TRename this field "LOWERCASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°…—”J$6ec2a4bd-f5e1-42be-b96b-9cddc57aa446
+
+java:S3008
+"TRename this field "UPPERCASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύουΨJ$70774c47-a10b-47d1-b796-9f70d81fb84b
+
+java:S3008"RRename this field "NUMBERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΣnJ$943ea051-5558-4272-8065-537413220eea
+
+java:S3008"TRename this field "ALL_CHARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ώ–β	J$cb1cb31c-40d0-4d35-9a5d-ceb6a62fdecd
+d
+java:S4274"(Replace this assert with a proper check.(¦ΌΪJ$0c5854a8-363b-4cac-81a3-1525374d0f50
+f	java:S106("+Replace this use of System.out by a logger.(‡”J$bdfc44be-04a4-42a5-904a-60f8ca46fe68

@@ -1,0 +1,10 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "stringBuilder".(€È¿¾øÿÿÿÿ8ŸğØ÷1
+V
+java:S1854"9Remove this useless assignment to local variable "build".(ÜğŠ±8 ğØ÷1
+]	java:S125"<This block of commented-out lines of code should be removed.(£àİÄúÿÿÿÿ8¥ğØ÷1
+T
+java:S1481"2Remove this unused "stringBuilder" local variable.(€È¿¾øÿÿÿÿ8§ğØ÷1
+G
+java:S1481"*Remove this unused "build" local variable.(ÜğŠ±8¨ğØ÷1

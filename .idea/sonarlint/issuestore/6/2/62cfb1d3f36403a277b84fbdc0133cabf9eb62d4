@@ -1,0 +1,12 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8 â€õ…2J$78708c10-4013-4aa7-9340-73d611f601e8
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(øû¼Àüÿÿÿÿ8€—ÿô…2J$06c83763-2613-43f0-a417-594169459fef
+r	java:S106%"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8¦Ñşô…2J$4e337591-41a3-405c-9c22-6a98f7f7bc77
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8µ”õ…2J$24e98daf-157d-47f1-9ed2-d8bea18a953b
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶”õ…2J$d026f7bf-32f9-4c5e-9c9c-a6d5aa18cd07
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶”õ…2J$2bf2d3fd-178d-44e7-b591-0b969b4d3188
+ƒ
+java:S1128";Remove this unused import 'java.util.stream.StreamSupport'.(ö°€ÿÿÿÿÿ8¶”õ…2J$62eda372-0c29-476e-9aec-a13268346e1f

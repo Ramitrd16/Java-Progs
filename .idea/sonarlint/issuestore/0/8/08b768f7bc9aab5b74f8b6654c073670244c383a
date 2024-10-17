@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êº¸»8ŸúÎÈê1J$fc0990a3-997e-48be-a915-df2618356db9
+m	java:S106"+Replace this use of System.out by a logger.(¢©²©8ó¸ÏÈê1J$e91d778f-9dc0-404f-808e-38dd577d1a20
+u
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¬úÎÈê1J$fb3480c6-fea6-43a7-9508-bc97e08c2ad0
+
+java:S1068"9Remove this unused "LOWER_CASE_CHARACTERS" private field.(Şôµ´ùÿÿÿÿ8­úÎÈê1J$35b53fc8-e112-4fe4-a6c9-46b04879e9c0
+l
+java:S1068	"*Remove this unused "DIGITS" private field.(æÑR8­úÎÈê1J$ffa4051a-c4d1-438f-b5a3-cc6979b41d54
+y
+java:S1068
+"6Remove this unused "SPECIAL_CHARACTERS" private field.(çËšÕ8­úÎÈê1J$2e18a3aa-0a66-48aa-b24c-3b3005e23111

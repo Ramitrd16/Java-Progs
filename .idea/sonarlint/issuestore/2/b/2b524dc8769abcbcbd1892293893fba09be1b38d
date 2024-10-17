@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êº¸»8•¢Õìá1J$6724b35c-860b-4328-a75c-050d45f24f94
+§
+java:S4165
+"dRemove this useless assignment; "primos" already holds the assigned value along all execution paths.(¯Ò€ç8ÀìØìá1J$8d75a57f-9f83-41d1-aa16-a953d50606d4
+r	java:S106"+Replace this use of System.out by a logger.(Ëæ»Äşÿÿÿÿ8œ¢Õìá1J$7845ca1b-4792-4a4d-b924-5991c5a1f101
+r	java:S106	"+Replace this use of System.out by a logger.(ƒµ¹áûÿÿÿÿ8œ¢Õìá1J$68454c8d-488e-4d3a-9e50-fca8ebc3fcbe
+r	java:S106"+Replace this use of System.out by a logger.(ƒµ¹áûÿÿÿÿ8œ¢Õìá1J$d2d9720b-8a23-42f1-91e1-ea27f6387411
